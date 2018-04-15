@@ -1995,6 +1995,18 @@
 			border-radius: 5px;
 			display: block;
 		}
+		.image video {
+			border-radius: 5px;
+			display: block;
+			width: 100%;
+			height: 100%;
+		}
+		.image iframe {
+			border-radius: 5px;
+			display: block;
+			width: 100%;
+			height: 100%;
+		}
 
 		.image.left {
 			float: left;
